@@ -1,0 +1,7 @@
+C:\Users\holzb\Desktop\MA\HL_trunk\bin\CartesianGeneticProgramming.dll
+C:\Users\holzb\Desktop\MA\HL_trunk\bin\CartesianGeneticProgramming.pdb
+C:\Users\holzb\Desktop\MA\HL_trunk\CartesianGeneticProgramming\obj\Debug\CartesianGeneticProgramming.csproj.AssemblyReference.cache
+C:\Users\holzb\Desktop\MA\HL_trunk\CartesianGeneticProgramming\obj\Debug\CartesianGeneticProgramming.csproj.CoreCompileInputs.cache
+C:\Users\holzb\Desktop\MA\HL_trunk\CartesianGeneticProgramming\obj\Debug\CartesianGeneticProgramming.csproj.CopyComplete
+C:\Users\holzb\Desktop\MA\HL_trunk\CartesianGeneticProgramming\obj\Debug\CartesianGeneticProgramming.dll
+C:\Users\holzb\Desktop\MA\HL_trunk\CartesianGeneticProgramming\obj\Debug\CartesianGeneticProgramming.pdb
